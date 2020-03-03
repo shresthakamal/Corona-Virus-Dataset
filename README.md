@@ -15,3 +15,5 @@ Thank you sincerely, all the members of KCDC.
 **country**--the country of the patient
 **region**--the region of the patient
 **group**--the collective infection
+
+[Official Link to the Dataset](https://www.kaggle.com/kimjihoo/coronavirusdataset)
